@@ -1,0 +1,30 @@
+{
+  "name": "chartapp",
+  "version": "1.0.0",
+  "description": "chart application using nodejs express mongodb socketio ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramachandrareddy1/chartApp.git"
+  },
+  "keywords": [
+    "rcreddy"
+  ],
+  "author": "rcreddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramachandrareddy1/chartApp/issues"
+  },
+  "homepage": "https://github.com/ramachandrareddy1/chartApp#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.14.12"
+  }
+}
